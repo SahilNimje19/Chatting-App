@@ -30,7 +30,7 @@ Perfect for anyone learning real-time systems, socket programming, or Java UI de
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="./src/icons/chat-ui.png" alt="Chat UI" width="600"/>
+  <img src="Chatting Application/src/icons/src/icons/chat-ui.png" alt="Chat UI" width="600"/>
 </p>
 
 ## 📁 Project Structure
